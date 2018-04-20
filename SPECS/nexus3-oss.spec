@@ -123,7 +123,7 @@ rm -rf $RPM_BUILD_ROOT
 %endif
 
 %changelog
-* Sat Apr 20 2018 Pavel Zhbanov <pzhbanov@luxoft.com> - 3.10.0.04-1
+* Fri Apr 20 2018 Pavel Zhbanov <pzhbanov@luxoft.com> - 3.10.0.04-1
 - Update to Nexus 3.10.0-04
 
 * Sat Mar 10 2018 Julio Gonzalez <git@juliogonzalez.es> - 3.9.0.01-1
